@@ -1,3 +1,35 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-column{
+    background-color: #8d8d8d;
+}
+.navber-container{
+    background-color: #262B37;
+}
+
+.about-container{
+    background-color: #00BDBD;
+}
+.education-container{
+    background-color: #eeeeee;
+}
+
+.bg-tomato{
+    background-color: #fb857f;
+}
+.tomato-color{
+    color: #fb857f;
+}
+
+.circle{
+    background-color: #fb857f;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
